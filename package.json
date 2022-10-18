@@ -1,0 +1,28 @@
+{
+  "name": "firebase-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danyalasif/firebase-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danyalasif/firebase-demo/issues"
+  },
+  "homepage": "https://github.com/danyalasif/firebase-demo#readme",
+  "dependencies": {
+    "firebase": "^9.12.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
